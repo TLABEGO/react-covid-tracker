@@ -1,7 +1,7 @@
 # React COVID Tracker
 
 
-## Available Scripts
+## How to run the project
 
 In the project directory, you can run:
 
