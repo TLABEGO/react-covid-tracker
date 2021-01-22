@@ -3,6 +3,8 @@
 
 ## How to run the project
 
+Clone the project into your machine
+
 In the project directory, you can run:
 
 ### `npm start`
