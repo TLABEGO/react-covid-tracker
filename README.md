@@ -1,4 +1,4 @@
-# React COVID-19 Tracker Application
+# COVID-19 Tracker Application
 
 
 ## How to run the project
